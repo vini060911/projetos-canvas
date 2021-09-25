@@ -1,6 +1,6 @@
 # Exemplos com canvas
 
-Edite esta página no[github](https://github.com/vini060911/projetos-canvas/edit/gh-pages/index.md).
+Edite esta página no [github](https://github.com/vini060911/projetos-canvas/edit/gh-pages/index.md).
 
 ### Quadrado
 
